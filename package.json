@@ -1,16 +1,17 @@
 {
    "name" : "graphviz",
    "version" : "0.0.8",
-   "author": "Gregoire Lejeune <gregoire.lejeune@free.fr> (http://algorithmique.net/)",
+   "author": "Hiroya Kubo <hiroya@cuc.ac.jp>,  Gregoire Lejeune <gregoire.lejeune@free.fr> (http://algorithmique.net/)",
    "description" : "Node.js interface to the GraphViz graphing tool",
    "homepage" : "http://algorithmique.net/",
    "contributors" : [ 
+      "Hiroya Kubo",
       "Gregoire Lejeune (http://algorithmique.net)",
       "Mathieu Ravaux (http://mathieuravaux.com)"
    ],
    "repository" : { 
       "type" : "git",
-      "url" : "http://github.com/glejeune/node-graphviz.git"
+      "url" : "http://github.com/kubohiroya/node-graphviz.git"
    },
    "keywords" : ["graphviz", "dot"],
    "directories" : { "lib" : "./lib" },
